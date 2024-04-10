@@ -1,0 +1,157 @@
+{
+    "list" : [
+    {
+        "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/15cd6fc144fa9c6d0a1accf25f1fcee2ce393c40-1000x500.png?w=750&q=40&fit=max&auto=format",
+        "itemTitle":"Family value!",
+        "info":"When you buy a qualifying Adult Meal between 12th - 23rd February",
+        "button":"Redeem offer"
+    },
+    {
+        "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/423b0c1100e6ba2a700189d038116a109852f884-1000x500.png?w=750&q=40&fit=max&auto=format",
+        "itemTitle":"Peppercorn Gourmet Kings",
+        "info":"150g of Aberdeen Angus or Crispy Chicken with a classic Peppercorn mayo",
+        "button":"Discover The Range"
+    },
+    {
+        "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/e821764096a7c20f4bf0caeda50391f28636ebcc-1000x500.png?w=750&q=40&fit=max&auto=format",
+       "itemTitle":"New Doritos Tangy Cheese Chicken Fries",
+        "info":"Chicken Fries, but make it Tangy. Get your hands on this tasty collaboration!",
+        "button":"Order Now"
+    },
+    {
+        "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/5f714c93ee0bdac4925dcdccd9292b8a75292b16-1000x500.png?w=750&q=40&fit=max&auto=format",
+        "itemTitle":"£5.99 Doritos Tangy Cheese King Box",
+        "info":"with NEW Tangy Cheese Chicken Fries",
+        "button":"Order Now"
+    }
+   ],
+
+    "Menubox" : [
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/640f7964049696842a084655aea51e164b33bd95-507x398.png?w=750&q=40&fit=max&auto=format",
+     "Title": "Specials"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/f499db310f28a3fb1bfa22b110731faeb95abe9d-508x397.png?w=750&q=40&fit=max&auto=format",
+     "Title": "All Burgers"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/536ca5d1fad178a06f28c4ff1e307067fdf9cdad-1000x745.png?w=750&q=40&fit=max&auto=format",
+     "Title": "Flamed-Grilled Burgers"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/a465a26353161bc33ca6b9c19e8e19d03f520cce-1000x745.png?w=750&q=40&fit=max&auto=format",
+     "Title": "Cripsy & Tender Chicken"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/f6790efe2365338ca3fc2e58bc2e9ce309a42564-1000x745.png?w=750&q=40&fit=max&auto=format",
+     "Title": "Veggie & More"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/43b2a702ff70ce01ae574fdbbcdbb6d54ecf4f39-1000x745.png?w=750&q=40&fit=max&auto=format",
+     "Title": "Sides"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/bc1a2acf87e8662a0d7406c2a836148cf3e49a56-1000x745.png?w=750&q=40&fit=max&auto=format",
+     "Title": "Drinks & Coffe"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/b0d7e6273fa3687e2439aea94924109ae136145f-1000x745.png?w=750&q=40&fit=max&auto=format",
+     "Title": "King Savers"
+    },
+    {
+     "imgUrl":"https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/68f276a6604a443bb2f65a26315817d2d83540a4-476x340.png?w=750&q=40&fit=max&auto=format",
+     "Title": "King Jr. Meals"
+    }
+ 
+],
+  
+    "offerList": [
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/17da7c76013ab0f2fd8ab60cfa711f2a16147526-800x513.png?w=320&q=40&fit=max&auto=format",
+        "title": "CLICK & COLLECT FIRST ORDER: FREE WHOPPER WITH PURCHASE OVER £3",
+        "info": "A free Whopper (642 Kcal) with your first purchase using Click & Collect with a minimum spend of £3. Participating restaurants only"
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/aec6bc7a77207a17a59004b444dc044bd86efa10-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£5.99 LARGE WHOPPER®",
+        "info": "WHOPPER® meal (991 Kcal)"
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/281e4f2132eaf4745b541cb9a1da1da541d69d40-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£5.99 LARGE CHICKEN/VEGAN ROYALE MEAL",
+        "info": "Large Chicken Royale® meal (945 Kcal) or Vegan Royale meal (946 Kcal)"
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/aae9c1303b7cea013c984ee647ed7898ce6cfce9-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£2.99 MEAT FREE MONDAYS - VEGAN ROYALE",
+        "info": "Vegan Royale for just £2.99. Only on Mondays.."
+    },
+    
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/e35f9ab77579a22a6efa23120091cc1c54999a1f-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£10.99 2 CHICKEN/VEGAN ROYALE MEALS",
+        "info": "2 Chicken Royale meals (883 Kcal per meal) or Vegan Royale meals (855 Kcal per meal)."
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/877bd2068624f705de3599adf33587165572787a-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£4.99 MELT KING BOX",
+        "info": "A Classic or BBQ Melt, 3 Chilli Cheese Bites or 4 Onion Rings, regular fries & drink (879 Kcal)."
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/eb04a40703ea1fd3cc02b84d7634f6edbeb9a23e-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£3 'APPY HOUR CHICKEN ROYALE®",
+        "info": "An afternoon treat! CHICKEN ROYALE® 2pm-5pm weekdays only."
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/09999775853a841e0bc271e29d9c7eb096f0c4d1-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "£3 'APPY HOUR BACON DOUBLE CHEESEBURGER",
+        "info": "An afternoon treat! Bacon Double Cheeseburger 2pm-5pm weekdays only."
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/1613de149013f8f04b8d9272fb50d55e7f97406b-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "DELIVERY: £12 TWO WHOPPER/ROYALE, 2 LARGE FRIES",
+        "info": "2 Whopper/Royale, 2 large fries."
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/b1e9056c10384bea3ce8d610745f395a13b67d57-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "DELIVERY: £12.99 2 GOURMET KING MEALS",
+        "info": "2 large Steakhouse Angus meals."
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/842d5dd39506af56069597319043f5bdd9fba632-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "DELIVERY: £12.99 BUNDLE FOR ONE",
+        "info": "A selection of burgers, King Loaded Fries and a side!"
+    },
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/6ec4f24f999a014cb3f089d6ca06b6375018af97-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "DELIVERY: £17.99 BUNDLE FOR 2",
+        "info": "Choose two burgers, King Loaded Fries and sides!"
+    },
+
+    {   "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/a4979de1e38c2fd455c2e7d643a87bafb08827d1-1000x850.png?w=320&q=40&fit=max&auto=format",
+        "title": "DELIVERY: £19.99 BUNDLE FOR 2",
+        "info": "Choose two burgers, King Loaded Fries and sides!"
+    }
+],
+
+  "favLocRec": [
+    {   
+        "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUeoucRsn17_x3Sudnyoq9rhpagYbiB22faAYkwNxl2oOeJyAp",
+        "title": "Find a Location Nearby",
+        "info": "Let us know where you are so we can recommend nearby locations.",
+        "button": "Share Location"
+    },
+
+    {   
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkjhKvWebNWKKwod0OKSsQIySS026ouVqtx2MyW9LSf8amNKv",
+        "title": "Sign In to Save Favorites",
+        "info": "To set a favorite location, first sign in or sign up for an account.",
+        "button": "Sign in"
+    },
+
+    {   
+        "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgf28EleVoOfhURcfnbOP5RiIDVc4RKPz7xiPKwRq6hcfOj0RG",
+        "title": "Sign In to See Recent Locations",
+        "info": "First sign in or sign up for an account.",
+        "button": "Sign in"
+    }
+   ]
+}

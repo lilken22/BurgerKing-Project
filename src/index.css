@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  /* background-color: #138808; */
+  /* color: rgb(15, 6, 6); */
+  /* padding:  0;
+  margin: 0;
+  box-sizing: border-box;
+} */
+ /* body {
+  background-color: rgb(245, 235, 220);
+  color: rgb(31, 31, 31);
+}  */
+/* .active{
+  color: red;
+}
+.navbar-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+} */
+/* .sectionOne{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 3%;
+  font-size: 1.2rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+}
+.sectionOne ul{
+  display: flex;
+  gap: 1em;
+  align-items: center;
+} */
+/* .sectionTwo{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+  font-size: 1.06rem;
+  padding-right: 3%;
+} */
+/* .sectionTwo h2{
+  font-size: 1.2rem;
+  font-weight: 700;
+  
+} */
+
+
+/* .sectionThree{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+  font-size: 1.06rem;
+  padding-right: 5%;
+} */
+/* .Signup{
+ background-color: red;
+ color: white;
+ width: 90px;
+ height: 35px;
+ border-radius: 50px;
+}
+.Signup:hover{
+  background-color: rgb(241, 187, 86);
+} */
+/* .shopBag{
+ background-color: brown;
+ color: white;
+ width: 110px;
+ height: 35px;
+ border-radius: 30px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.shopBag:hover{
+  background-color: rgb(179, 255, 0);
+}
+
+.icons{
+  display: flex;
+  align-items: center;
+} */
+/* .icons span{
+  gap: 10px;
+  padding-right:10px ;
+}  */
